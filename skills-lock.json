@@ -57,6 +57,48 @@
       "computedHash": "b78689833404148c769077355e12dbe5ad996a158a1e21e58ddf169e439d9d8c",
       "installMode": "copy"
     },
+    "nestjs": {
+      "source": "nestjs/agent-skills",
+      "commit": "7f05f492c42b30bb03b721caa07b2642cdf29deb",
+      "sourceType": "github",
+      "skillPath": "skills/nestjs/SKILL.md",
+      "computedHash": "7e8020077ee6b03a9e95b51084a480c1b6ba63b0a6b6f609d2c9773761c76cee"
+    },
+    "nestjs-auth": {
+      "source": "nestjs/agent-skills",
+      "commit": "7f05f492c42b30bb03b721caa07b2642cdf29deb",
+      "sourceType": "github",
+      "skillPath": "skills/nestjs-auth/SKILL.md",
+      "computedHash": "868f0cd3611dd8d6073e3b3e59fab1ad2c11cecab50c7eb864ea4c0ab383ce1f"
+    },
+    "nestjs-data": {
+      "source": "nestjs/agent-skills",
+      "commit": "7f05f492c42b30bb03b721caa07b2642cdf29deb",
+      "sourceType": "github",
+      "skillPath": "skills/nestjs-data/SKILL.md",
+      "computedHash": "56d73232e867fa67a60d668fb923569d9f9d6faaee4b060e1bcc6b1a90ce66df"
+    },
+    "nestjs-feature": {
+      "source": "nestjs/agent-skills",
+      "commit": "7f05f492c42b30bb03b721caa07b2642cdf29deb",
+      "sourceType": "github",
+      "skillPath": "skills/nestjs-feature/SKILL.md",
+      "computedHash": "8831f1049023a69412b23ed5680525f56855ceb911085d9790042e2dbd8e7e78"
+    },
+    "nestjs-production": {
+      "source": "nestjs/agent-skills",
+      "commit": "7f05f492c42b30bb03b721caa07b2642cdf29deb",
+      "sourceType": "github",
+      "skillPath": "skills/nestjs-production/SKILL.md",
+      "computedHash": "8c764e23242b00967a19083760323dc87dd8bd25b771ba6bf58a1dca11cd9a66"
+    },
+    "nestjs-testing": {
+      "source": "nestjs/agent-skills",
+      "commit": "7f05f492c42b30bb03b721caa07b2642cdf29deb",
+      "sourceType": "github",
+      "skillPath": "skills/nestjs-testing/SKILL.md",
+      "computedHash": "8fe4c16f00372cb49e98296db2eb029b473065a83492062e781004f9eccc17d5"
+    },
     "scope": {
       "source": "jsmastery-pro/skills",
       "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
@@ -80,6 +122,20 @@
       "skillPath": "skills/engineering/tdd/SKILL.md",
       "computedHash": "e3e0f78ff1c2d52ffefa0378baa1e80e129d359288cf9a56f4e59afcd2aac86c",
       "installMode": "copy"
+    },
+    "telegram-bots": {
+      "source": "ssheleg/telegram-dev",
+      "commit": "23103a39d777f2a4520fc884c45d00c2a1c321dd",
+      "sourceType": "github",
+      "skillPath": "plugins/telegram-dev/skills/telegram-bots/SKILL.md",
+      "computedHash": "49d225e3af16bd670eb079b6fb6a45b934d37ba4657a642bcaeecfcc04454ab7"
+    },
+    "telegram-miniapps": {
+      "source": "ssheleg/telegram-dev",
+      "commit": "23103a39d777f2a4520fc884c45d00c2a1c321dd",
+      "sourceType": "github",
+      "skillPath": "plugins/telegram-dev/skills/telegram-miniapps/SKILL.md",
+      "computedHash": "6cc92752519931ba836e5951bf4e9397b4fd0e52fb4bda371a111ca9dc78989f"
     },
     "test": {
       "source": "jsmastery-pro/skills",

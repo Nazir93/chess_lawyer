@@ -13,7 +13,7 @@ _Это рекомендации, чтобы сборка шла по поряд
 
 | # | Feature | Phase | Status |
 |---|---------|-------|--------|
-| 1 | Стек и архитектура | Foundation | planned |
+| 1 | Стек и архитектура | Foundation | in-progress |
 | 2 | Стандарты кода и инструменты | Foundation | planned |
 | 3 | Модель данных | Foundation | planned |
 | 4 | Дизайн система и UI основа | Foundation | planned |
